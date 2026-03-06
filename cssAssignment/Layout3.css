@@ -1,0 +1,47 @@
+#header {
+    border: 1px solid black;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* .container {
+    display:flex;
+    gap: 10px;
+} */
+
+#nav {
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#nav p {
+    display: inline;
+}
+
+.main {
+    border: 1px solid black;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+#maincon1, #maincon2, #maincon3 {
+    border: 1px solid black;
+}
+
+#sidebar {
+    border: 1px solid black;
+    vertical-align: top;
+    flex: 1;
+}
+
+#footer {
+    border: 1px solid black;
+    vertical-align: top;
+    margin-top: 20px;
+    width: 100%;
+};
